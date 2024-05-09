@@ -80,13 +80,13 @@ label:hover {
 }
 
 .answer--yes {
-	background-image: url('../images/Yes.gif');
+	background-image: url('../image/Yes.gif');
 	background-repeat:no-repeat;
 	background-size: cover;
 }
 
 .answer--no {
-	background-image: url('../images/No.gif');
+	background-image: url('../image/No.gif');
 	background-repeat:no-repeat;
 	background-size: cover;
 }
